@@ -22,7 +22,7 @@ public class Day1ServiceImpl implements Day1Service {
     private List<Long> leftListOfLocationIds = new ArrayList<>();
     private List<Long> rightListOfLocationIds = new ArrayList<>();
     private String exampleInputFileName = "day1/example.txt";
-    private String inputFileName = "day1/day1.txt";
+    private String inputFileName = "day1/day.txt";
 
     // private String inputFileName = exampleInputFileName;
 
