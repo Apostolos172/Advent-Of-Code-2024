@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@Tag(name = "Day2Controller", description = "Controller")
+@Tag(name = "Day3Controller", description = "Controller")
 @RequestMapping("/day3")
 public class Day3Controller {
 
